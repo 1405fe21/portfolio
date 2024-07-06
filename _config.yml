@@ -1,0 +1,13 @@
+title: Programming websites
+description: 
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+
+footer:
+  links:
+    - title: Twiter
+      url: https://x.com
+    - title: LinkedIn
+      url: https://www.linkedin.com
+    
